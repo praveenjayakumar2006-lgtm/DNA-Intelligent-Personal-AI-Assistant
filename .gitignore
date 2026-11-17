@@ -1,0 +1,17 @@
+
+agent/
+venv/
+.venv/
+
+.env
+.env.local
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+*.log
